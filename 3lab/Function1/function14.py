@@ -1,0 +1,4 @@
+from functions import isPalindrom
+from functions import guessTheNumber
+isPalindrom
+guessTheNumber
